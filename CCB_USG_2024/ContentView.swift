@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  CCB_USG_2024
 //
-//  Created by gyaroron on 8/7/24.
+//  Created by jun on 8/7/24.
 //
 
 import SwiftUI

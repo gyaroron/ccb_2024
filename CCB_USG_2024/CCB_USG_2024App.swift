@@ -2,7 +2,7 @@
 //  CCB_USG_2024App.swift
 //  CCB_USG_2024
 //
-//  Created by m1mac2021 on 8/7/24.
+//  Created by jun on 8/7/24.
 //
 
 import SwiftUI
