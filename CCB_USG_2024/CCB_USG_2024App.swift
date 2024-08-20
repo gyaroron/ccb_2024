@@ -11,7 +11,7 @@ import SwiftUI
 struct CCB_USG_2024App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TabBarView()
         }
     }
 }
